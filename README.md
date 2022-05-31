@@ -10,8 +10,8 @@
 
 6.1. [Беспроводная среда передачи данных.](https://github.com/netology-code/wfnt-homeworks/blob/main/6-01.md)
 
-6.2. [Элементы БЛВС. Точки доступа, контроллеры, антенны.]()
+6.2. [Элементы БЛВС. Точки доступа, контроллеры, антенны.](https://github.com/netology-code/wfnt-homeworks/blob/main/6-02.md)
 
-6.3. [Роуминг в беспроводных сетях.]()
+6.3. [Роуминг в беспроводных сетях.](https://github.com/netology-code/wfnt-homeworks/blob/main/6-03.md)
 
 6.4. [Безопасность в беспроводных сетях. ]()
